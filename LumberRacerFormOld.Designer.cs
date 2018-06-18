@@ -162,7 +162,7 @@
             this.trackBarHorizontal.Size = new System.Drawing.Size(321, 45);
             this.trackBarHorizontal.SmallChange = 10;
             this.trackBarHorizontal.TabIndex = 9;
-            this.trackBarHorizontal.Value = 400;
+            this.trackBarHorizontal.Value = 1000;
             // 
             // trackBarVertical
             // 
@@ -176,7 +176,7 @@
             this.trackBarVertical.Size = new System.Drawing.Size(45, 600);
             this.trackBarVertical.SmallChange = 10;
             this.trackBarVertical.TabIndex = 10;
-            this.trackBarVertical.Value = 600;
+            this.trackBarVertical.Value = 1000;
             // 
             // numericUpDownRefreshRate
             // 
@@ -223,7 +223,7 @@
             0});
             this.numericUpDownRequiredScore.Location = new System.Drawing.Point(12, 183);
             this.numericUpDownRequiredScore.Maximum = new decimal(new int[] {
-            400,
+            1000,
             0,
             0,
             0});
